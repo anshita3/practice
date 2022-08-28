@@ -1,0 +1,13 @@
+\\To Swap the values of two variables without using any extra variable.
+#include<iostream>
+using namespace std;
+int main(){
+    int x=60, y=10;
+    x=x+y;
+    yx-y;
+    x=x-y;
+    cout<<x;
+    cout<<y;
+    return 0;
+
+}
